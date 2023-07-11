@@ -54,6 +54,12 @@ body {
     width: 20px;
     margin-right: 5px;
   }
+
+  .checks {
+    display: flex;
+    flex-direction: column; /* Arrange the items in a column */
+    align-items: flex-start; /* Align the items to the left */
+  }
   
   
   
