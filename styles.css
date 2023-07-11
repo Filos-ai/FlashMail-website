@@ -3,7 +3,8 @@ body {
     margin: 0 auto; /* Center the content */
     padding: 100px 25% 0; /* Add padding at the top and on the left and right */
     width: 50%; /* Set the width to 50% of the screen */
-background-color: #FAF9F6;  }
+background-color: #FAF9F6;  
+margin-bottom: 50px;}
   
   h1 {
     color: #333;
@@ -132,8 +133,11 @@ a{
 }
 
 .priv {
-  display: flex;
+  color: black;
+    font-size: 16px;
+    margin-bottom: 3px;
 }
+
 
 
 
