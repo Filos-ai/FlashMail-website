@@ -65,6 +65,7 @@ body {
   .checks div {
     display: flex; /* Use flexbox for alignment */
     align-items: center; /* Vertically align the items */
+    margin-bottom: 40px;
   }
   
   .text {
@@ -96,7 +97,7 @@ body {
     text-align: center;
     color: grey;
     font-style: italic;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
 
 
   }
@@ -106,3 +107,10 @@ body {
 
 
   }
+
+  .dem_exp{
+    color: black;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+  
