@@ -36,7 +36,7 @@ body {
     width: 250px; /* Adjust the width as desired */
     display: flex; /* Use flexbox for alignment */
     align-items: center; /* Vertically align the button content */
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 
   }
   
@@ -47,6 +47,7 @@ body {
 
   .rating {
     display: flex;
+    margin-bottom: 50px;
   }
   
   .star {
@@ -61,5 +62,18 @@ body {
     align-items: flex-start; /* Align the items to the left */
   }
   
+  .checks div {
+    display: flex; /* Use flexbox for alignment */
+    align-items: center; /* Vertically align the items */
+  }
   
-  
+  .text {
+    margin: 0; /* Remove any margin around the text */
+    line-height: 1; /* Adjust the line height for vertical alignment */
+  }
+
+  .check {
+    display: inline-block;
+    width: 20px;
+    margin-right: 10px;
+  }
