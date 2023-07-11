@@ -60,12 +60,13 @@ body {
     display: flex;
     flex-direction: column; /* Arrange the items in a column */
     align-items: flex-start; /* Align the items to the left */
+    margin-bottom: 60px;
+
   }
   
   .checks div {
     display: flex; /* Use flexbox for alignment */
     align-items: center; /* Vertically align the items */
-    margin-bottom: 60px;
   }
   
   .text {
@@ -114,3 +115,6 @@ body {
     margin-bottom: 10px;
 }
   
+.video{
+    width: 100%;
+}
