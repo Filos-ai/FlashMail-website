@@ -7,7 +7,7 @@ body {
   
   h1 {
     color: #333;
-    font-size: 50px;
+    font-size: 100px;
     margin-bottom: 50px;
     display: flex; /* Use flexbox for alignment */
     align-items: center; /* Vertically align the heading and image */
