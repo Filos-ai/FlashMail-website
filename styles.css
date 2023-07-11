@@ -94,5 +94,15 @@ body {
 
   .secure {
     text-align: center;
+    color: grey;
+    font-style: italic;
+    margin-bottom: 5px;
+
+
+  }
+
+  .sec {
+    border-radius: 90%;
+
 
   }
