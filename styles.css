@@ -36,13 +36,24 @@ body {
     width: 250px; /* Adjust the width as desired */
     display: flex; /* Use flexbox for alignment */
     align-items: center; /* Vertically align the button content */
-    /*justify-content: center; /* Horizontally center the button content */
+    margin-bottom: 10px;
 
   }
   
   button .image2 {
-    width: 30px; /* Set the width of the image */
+    width: 40px; /* Set the width of the image */
     margin-right: 10px;
   }
+
+  .rating {
+    display: flex;
+  }
+  
+  .star {
+    display: inline-block;
+    width: 20px;
+    margin-right: 5px;
+  }
+  
   
   
