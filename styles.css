@@ -70,10 +70,13 @@ body {
   .text {
     margin: 0; /* Remove any margin around the text */
     line-height: 1; /* Adjust the line height for vertical alignment */
+    margin-bottom: 7px;
   }
 
   .check {
     display: inline-block;
     width: 20px;
     margin-right: 10px;
+    margin-bottom: 7px;
+
   }
