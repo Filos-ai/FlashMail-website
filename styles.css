@@ -65,7 +65,7 @@ body {
   .checks div {
     display: flex; /* Use flexbox for alignment */
     align-items: center; /* Vertically align the items */
-    margin-bottom: 40px;
+    margin-bottom: 60px;
   }
   
   .text {
