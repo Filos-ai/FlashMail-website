@@ -1,15 +1,9 @@
-<style>
-.container {
-  padding-left: 20px;
-}
-</style>
-
-<div class="container">
-
-FlashMailll
+# FlashMail
 
 Welcome to my website!
 
 This is a simple website created using Markdown.
 
-</div>
+
+
+
